@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![snake gif](https://github.com/trizwz/trizwz/blob/output/github-contribution-grid-snake.gif)
 <!--
 **trizwz/trizwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
