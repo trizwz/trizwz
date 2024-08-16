@@ -5,7 +5,7 @@
 </div>
 
 <!--Sobre mim-->
-<p align="center">Meu Nome é Beatriz, tenho 17 anos e estudo programação desde os 15. Comecei com interesse em desenvolvimento web por um trabalho escolar e estou focada no estudo de Backend. Pretendo iniciar a faculdade de Análise e Desenvolvimento de Sistemas Ou Sistemas de Informação.</p>
+<p align="center">Meu nome é Beatriz, tenho 17 anos e estudo programação desde os 15. Comecei com interesse em desenvolvimento web por um trabalho escolar e estou focada no estudo de Backend. Pretendo iniciar a faculdade de Análise e Desenvolvimento de Sistemas Ou Sistemas de Informação.</p>
 
 <!--Skils+gif-->
 <img align="right" alt="" height="190px" src="">
