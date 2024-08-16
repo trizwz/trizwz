@@ -1,4 +1,7 @@
 ## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color="#9F3C64"&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem-vindo+(a)!;" />
+</h1>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trizwz/trizwz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trizwz/trizwz/output/github-contribution-grid-snake-dark.svg">
