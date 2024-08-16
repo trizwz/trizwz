@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono+&weight=900&size=30&pause=1000&color=9F3C64&width=435&lines=%E2%8B%86%EF%BD%A1+Welcome!+%3A;Seja+Bem-vindo(a)+ao+meu+perfil)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1000&color=9F3C64&width=435&lines=%E2%8B%86%EF%BD%A1+Seja+Bem-vindo(a)+ao+meu+perfil+!+%3A)" alt="Typing SVG" /></a>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trizwz/trizwz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trizwz/trizwz/output/github-contribution-grid-snake-dark.svg">
