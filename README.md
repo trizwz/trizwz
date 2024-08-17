@@ -14,9 +14,15 @@
 ##
 
 <!--Skils+gif-->
-<img align="right" alt="" height="190px" src="./.imgs/deadpool2.gif">
+<div>
+<h3 align="left" color="#8E2939">Skills</h3>
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,cs,mysql" />
+  </a>
+  
+</div>
+<img align="right" alt="" height="190px" width="190px" src="./.imgs/deadpool2.gif">
 <p align="center"></p>
-
 ##
 
 <picture align="center">
