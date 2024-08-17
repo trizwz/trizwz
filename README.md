@@ -34,4 +34,4 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=trizwz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/trizwz/github-readme-stats#gh-dark-mode-only)
