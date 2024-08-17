@@ -11,11 +11,11 @@
 <!--Sobre mim-->
 <p align="center">Meu nome é Beatriz, tenho 17 anos e estudo programação desde os 15. Comecei com interesse em desenvolvimento web por um trabalho escolar e estou focada no estudo de Backend. Pretendo iniciar a faculdade de Análise e Desenvolvimento de Sistemas Ou Sistemas de Informação.</p>
 
-
+##
 
 </div>
 
-<img align="right" alt="" height="300px" width="300px" src="./.imgs/deadpool2.gif">
+<img align="right" alt="" height="190px" src="./.imgs/mario2.gif">
 
 <h3 align="left">Contact</h3>
 
