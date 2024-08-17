@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-##
+
 <!--contact-->
 
 <!--Skils-->
@@ -31,5 +31,4 @@
 </div>
 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trizwz&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+##
