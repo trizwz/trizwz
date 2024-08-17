@@ -15,7 +15,7 @@
 
 </div>
 
-<img align="right" alt="" height="300px" width="300px" src="./.imgs/deadpool2.gif">
+<img align="right" alt="" height="400px" width="300px" src="./.imgs/deadpool-studying.jpeg">
 
 <h3 align="left">Contact</h3>
 
