@@ -35,4 +35,4 @@
 ##
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_red">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizwz&langs_count=8&theme=shadow_red">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizwz&langs_count=8&theme=shadow_red">
