@@ -15,7 +15,7 @@
 
 </div>
 
-<img align="right" alt="" height="190px" src="./.imgs/mario.gif">
+<img align="right" alt="" height="190px" src="./.imgs/mario2.gif">
 
 <h3 align="left">Contact</h3>
 
