@@ -34,5 +34,5 @@
 
 ##
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trizwz&show_icons=true&theme=shadow_red)](https://github.com/trizwz/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=trizwz&show_icons=true&theme=shadow_red)](https://github.com/trizwz/github-readme-stats)">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizwz&langs_count=8&theme=shadow_red">
