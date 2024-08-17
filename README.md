@@ -5,14 +5,19 @@
 </div>
 <br>
 <img align="center" alt="" src="./.imgs/header.png">
+
+##
+
 <!--Sobre mim-->
 <p align="center">Meu nome é Beatriz, tenho 17 anos e estudo programação desde os 15. Comecei com interesse em desenvolvimento web por um trabalho escolar e estou focada no estudo de Backend. Pretendo iniciar a faculdade de Análise e Desenvolvimento de Sistemas Ou Sistemas de Informação.</p>
-<br>
+
+##
+
 <!--Skils+gif-->
 <img align="right" alt="" height="190px" src="./.imgs/deadpool2.gif">
 <p align="center"></p>
 
-
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trizwz/trizwz/output/github-contribution-grid-snake-dark.svg">
