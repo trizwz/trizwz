@@ -9,7 +9,7 @@
 ##
 
 <!--Sobre mim-->
-<p font-size="15px" align="center"><strong><i>Meu nome é Beatriz, tenho 17 anos e estudo programação desde os 15. Comecei com interesse em desenvolvimento web por um trabalho escolar e estou focada no estudo de Backend. Pretendo iniciar a faculdade de Análise e Desenvolvimento de Sistemas Ou Sistemas de Informação.</i></strong></p>
+<p font-size="15px" align="center"><strong><i>Meu nome é Beatriz, tenho 17 anos e estudo programação desde os 15. Comecei com interesse em desenvolvimento web por um trabalho escolar e estou focada no estudo de Backend. Pretendo iniciar a faculdade de Análise e Desenvolvimento de Sistemas Ou Sistemas de Informação em 2025. Amo desafios e principalmente tecnologia desde nova, quando descobri que poderia entrar neste mundo e criar sites, aplicativos e jogos, tudo melhorou.</i></strong></p>
 
 ##
 
