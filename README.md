@@ -25,7 +25,6 @@
     <img src="https://skillicons.dev/icons?i=git,java,cs,mysql" />
   </a>
  
-##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trizwz/trizwz/output/github-contribution-grid-snake-dark.svg">
