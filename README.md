@@ -17,7 +17,7 @@
 
 <img align="right" alt="" height="190px" src="./.imgs/mario2.gif">
 
-<h3 align="left">Contact</h3>
+<h3 align="left"><strong><i>Contact</i></strong></h3>
 
 
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=691e19&color:FFF)](mailto:beatrizalvesctt@gmail.com)
@@ -25,10 +25,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=691e19&color:FFF")](https://www.instagram.com/whobtz/)
 <!--[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=691e19&color:FFF)]()-->
 
-<h3 align="left" color="#8E2939">Skills</h3>
+<h3 align="left" color="#8E2939"><strong><i>Workspace</i></strong></h3>
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,java,mysql,vscode,idea" />
   </a>
 </div>
 
