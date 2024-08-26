@@ -22,7 +22,7 @@
 
 [![E-mail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=691e19&color:FFF)](mailto:beatrizalvesctt@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&&logoColor=691e19&color:FFF")](https://www.linkedin.com/in/trizalves/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=691e19&color:FFF")](https://www.instagram.com/whobtz/)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=691e19&color:FFF")](https://www.instagram.com/whobtz/)-->
 <!--[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=691e19&color:FFF)]()-->
 
 <h3 align="left" color="#8E2939"><strong><i>Workspace</i></strong></h3>
@@ -33,7 +33,7 @@
 </div>
 
 ##
-<div>
+<!--<div>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=trizwz&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=e62f22&border_color=e62f22&border_radius=5&theme=transparent">
 <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizwz&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=e62f22&border_color=e62f22&border_radius=5&theme=transparent">
-</div>
+</div>-->
