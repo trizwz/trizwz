@@ -28,7 +28,7 @@
 <h3 align="left" color="#8E2939"><strong><i>Workspace</i></strong></h3>
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,mysql,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=git,java,mysql" />
   </a>
 </div>
 
